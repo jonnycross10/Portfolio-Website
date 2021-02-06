@@ -213,14 +213,14 @@ img { max-width: 100%; }
 }
 
 
-/***** Services *****/
+/***** Skills *****/
 
-.services-box {
+.skills-box {
 	padding-top: 30px;
 	text-align: left;
 }
 
-.services-box .services-box-icon {
+.skills-box .skills-box-icon {
 	width: 80px;
 	height: 80px;
 	margin: 0 auto;
@@ -240,7 +240,7 @@ img { max-width: 100%; }
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffb24b', endColorstr='#9b59b6',GradientType=0 ); /* IE6-9 */
 }
 
-.services-box h3 {
+.skills-box h3 {
 	margin-top: 0;
 	padding: 0 0 10px 0;
 }
